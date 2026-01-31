@@ -1,0 +1,3 @@
+[submodule "plugins/skate-actions"]
+	path = plugins/skate-actions
+	url = https://github.com/mjmccull0/skate-actions.git
